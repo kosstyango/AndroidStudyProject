@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudyProject</string>
+    <string name="Hello">Привет, Человек!!!</string>
+    <string name="кнопка_1">Жми, не бойся</string>
+    <string name="Finish_button">Получилось!!!</string>
+    <string name="Похвала">Точно, получилось :)</string>
+    <string name="Переход">Переходим во 2 активность</string>
+    <string name="textForTransferring">Передача текста из первой Activity во вторую Activity прошла успешно! Поздравляю!! Миссия завершена!!!</string>
+</resources>
