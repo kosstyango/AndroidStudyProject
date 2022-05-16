@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 textView.setText(button.getText());
-                Toast.makeText(getApplicationContext(), "Сработало!!!", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), R.string.toast_1, Toast.LENGTH_SHORT).show();
                 button.setEnabled(false);
-                button.setText("GAME OVER");
+                button.setText(R.string.button_2);
             }
         });
 

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidStudyProject</string>
+    <string name="button_1">Произвольный текст</string>
+    <string name="text_1">пусто :(</string>
+    <string name="toast_1">Получилось!!!</string>
+    <string name="button_2">GAME OVER</string>
+</resources>
